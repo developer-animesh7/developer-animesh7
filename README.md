@@ -59,7 +59,7 @@ SDE Aspirant • Creator of GNT • Full Stack Developer • AI Product Builder
 
 ### 🚀 GNT: Glass New Tab
 
-- 👥 8,000+ Users
+- 👥 15,000+ Users
 - ⭐ 4.8 Rating
 - 🏆 Google Featured Extension
 - 🎨 iOS/macOS Inspired Dashboard

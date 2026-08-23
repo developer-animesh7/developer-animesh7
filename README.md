@@ -523,7 +523,6 @@ Helping rural creators sell unique products
 🤖 <b>Generative AI & LLM Applications</b>
   •  
 🌐 <b>Full-Stack Development</b>
-
 <br><br>
 
 🧩 <b>Chrome Extensions</b>
@@ -616,18 +615,6 @@ work with strong engineering teams, and grow as a software engineer.
 <p align="center">
 <b>AI • Software Engineering • Full Stack • Product Development • Security</b>
 </p>
-
-
-<p align="center">
-
-### ⭐ Building Secure, Modern & Impactful Software
-
-</p>
-
-<p align="center">
-<b>AI • Software Engineering • Full Stack • Product Development • Security</b>
-</p>
-
 ---
 
 <p align="center">

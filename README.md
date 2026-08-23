@@ -615,7 +615,7 @@ work with strong engineering teams, and grow as a software engineer.
 <p align="center">
 <b>AI • Software Engineering • Full Stack • Product Development • Security</b>
 </p>
----
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer&reversal=true"/>

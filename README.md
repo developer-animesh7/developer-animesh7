@@ -467,11 +467,13 @@ Helping rural creators sell unique products
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="./profile/stats.svg" width="48%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="48%" alt="Most Used Languages"/>
+<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+<img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -479,11 +481,11 @@ Helping rural creators sell unique products
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
+<img src="./profile/streak.svg" width="75%" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-<sub>Automatically updated through GitHub Actions • Asia/Kolkata</sub>
+<sub>Automatically updated daily through GitHub Actions • Asia/Kolkata</sub>
 </p>
 
 ---
@@ -496,7 +498,7 @@ Helping rural creators sell unique products
 🤖 Generative AI & LLM Applications  • 
 🌐 Full-Stack Development
 
-<br>
+<br><br>
 
 🧩 Chrome Extensions  • 
 📱 Flutter Applications  • 
@@ -509,7 +511,6 @@ Helping rural creators sell unique products
 # 💼 Experience
 
 <table>
-
 <tr>
 
 <td width="50%" align="center">
@@ -529,7 +530,6 @@ Euphoria GenX • IIT Jammu • Real-World Product Development
 </td>
 
 </tr>
-
 </table>
 
 ---

@@ -627,3 +627,38 @@ work with strong engineering teams, and grow as a software engineer.
 <p align="center">
 <b>AI • Software Engineering • Full Stack • Product Development • Security</b>
 </p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer&reversal=true"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1800&color=7B61FF&center=true&vCenter=true&width=700&lines=Building+Secure+%26+Modern+Software;Creating+AI-Powered+Products;Turning+Ideas+Into+Real+Products;Always+Learning.+Always+Building." alt="Animated Closing Message"/>
+</p>
+
+<br>
+
+<p align="center">
+<a href="https://animeshpatra.me">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/animesh-patra2004/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/developer-animesh7">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+<br>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+</p>
+

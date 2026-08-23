@@ -472,8 +472,8 @@ Helping rural creators sell unique products
 # 📊 GitHub Analytics
 
 <p align="center">
-<img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
-<img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
 </p>
 
 ---
@@ -481,11 +481,35 @@ Helping rural creators sell unique products
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="./profile/streak.svg" width="75%" alt="GitHub Contribution Streak"/>
+  <img src="./profile/streak.svg" width="78%" alt="Contribution Streak"/>
 </p>
 
 <p align="center">
-<sub>Automatically updated daily through GitHub Actions • Asia/Kolkata</sub>
+  <sub>Contribution activity • Updated automatically • Asia/Kolkata</sub>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=developer-animesh7&bg_color=0d1117&color=7B61FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true&custom_title=Animesh%20Patra's%20Contribution%20Activity"
+    width="96%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=developer-animesh7&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
+    width="96%"
+    alt="GitHub Achievements"
+  />
 </p>
 
 ---
@@ -494,15 +518,19 @@ Helping rural creators sell unique products
 
 <p align="center">
 
-💻 Software Engineering  • 
-🤖 Generative AI & LLM Applications  • 
-🌐 Full-Stack Development
+💻 <b>Software Engineering</b>
+  •  
+🤖 <b>Generative AI & LLM Applications</b>
+  •  
+🌐 <b>Full-Stack Development</b>
 
 <br><br>
 
-🧩 Chrome Extensions  • 
-📱 Flutter Applications  • 
-☁️ Cloud & Scalable Systems
+🧩 <b>Chrome Extensions</b>
+  •  
+📱 <b>Flutter Applications</b>
+  •  
+☁️ <b>Cloud & Scalable Systems</b>
 
 </p>
 
@@ -578,6 +606,17 @@ work with strong engineering teams, and grow as a software engineer.
 </p>
 
 ---
+
+<p align="center">
+
+### ⭐ Building Secure, Modern & Impactful Software
+
+</p>
+
+<p align="center">
+<b>AI • Software Engineering • Full Stack • Product Development • Security</b>
+</p>
+
 
 <p align="center">
 

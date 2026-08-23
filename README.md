@@ -46,14 +46,12 @@ browser extensions, mobile applications, cloud systems and security-focused appl
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/AI%20%26%20LLMs-7B61FF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Full%20Stack-4285F4?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloud-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Security-111827?style=flat-square"/>
-
 </p>
 
 ---
@@ -65,7 +63,7 @@ browser extensions, mobile applications, cloud systems and security-focused appl
 </p>
 
 <p align="center">
-<b>AI • LLM Applications • REST APIs • Cloud • Computer Vision • Product Engineering</b>
+<b>Generative AI • LLM Applications • REST APIs • Cloud • Computer Vision • Product Engineering</b>
 </p>
 
 ---
@@ -79,7 +77,7 @@ browser extensions, mobile applications, cloud systems and security-focused appl
 
 ### 🧊 GNT — Glass New Tab
 
-Production Chrome extension built around productivity, customization and privacy.
+Production Chrome extension for productivity, customization and privacy.
 
 <p>
 <img src="https://img.shields.io/badge/15K%2B%20Users-7B61FF?style=flat-square"/>
@@ -160,7 +158,7 @@ Python-based job matching and recommendation project.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recommendation-7B61FF?style=flat-square"/>
 </p>
 
 <a href="https://github.com/developer-animesh7/Job-Reco-System">
@@ -235,45 +233,9 @@ Digital advertising and marketing web project.
 
 <td width="50%" align="center">
 
-### 🔗 Ultimate Link Shortener
-
-Lightweight URL shortening application.
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-<a href="https://github.com/developer-animesh7/ultimate-link-shortner">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-### 🛍️ HypeLens Deal Finder
-
-AI-powered deal discovery and product comparison.
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-
-<a href="https://github.com/developer-animesh7/HypeLens-A-Deal-Finder-Platform">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
 ### 🌱 Pahela Kadam
 
-Website project for a special-school initiative.
+Website for a special-school initiative.
 
 <p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -289,7 +251,7 @@ Website project for a special-school initiative.
 
 ### ⚙️ Workflow Demo
 
-Workflow and automation development project.
+Workflow and automation project.
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -307,15 +269,51 @@ Workflow and automation development project.
 
 <td width="50%" align="center">
 
+### 🔗 Ultimate Link Shortener
+
+Lightweight URL shortening application.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+<a href="https://github.com/developer-animesh7/ultimate-link-shortner">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
 ### 🏗️ Oasis Project
 
-Java-based software development project.
+Java software development project.
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 </p>
 
 <a href="https://github.com/developer-animesh7/Oasis_project">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🛍️ HypeLens Deal Finder
+
+AI-powered deal discovery and product comparison.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<a href="https://github.com/developer-animesh7/HypeLens-A-Deal-Finder-Platform">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -359,9 +357,9 @@ Internship project collection.
 
 <td width="50%" align="center">
 
-### 📚 More on GitHub
+### 📚 Explore More
 
-Explore the complete repository collection.
+See every public repository, experiment and project.
 
 <br>
 
@@ -409,7 +407,7 @@ Cashback • Offers • Wallet • Payments
 
 **Face Recognition**
 
-Attendance • Camera • SaaS Dashboard
+Attendance • Camera • SaaS UI
 
 </td>
 
@@ -443,7 +441,7 @@ Reels & Shorts distraction control
 
 **Marketplace Platform**
 
-Helping rural creators sell unique products online
+Helping rural creators sell unique products
 
 </td>
 
@@ -472,10 +470,8 @@ Helping rural creators sell unique products online
 # 📊 GitHub Analytics
 
 <p align="center">
-
 <img src="./profile/stats.svg" width="48%" alt="GitHub Statistics"/>
 <img src="./profile/top-langs.svg" width="48%" alt="Most Used Languages"/>
-
 </p>
 
 ---
@@ -483,13 +479,11 @@ Helping rural creators sell unique products online
 # 🔥 Contribution Streak
 
 <p align="center">
-
 <img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak"/>
-
 </p>
 
 <p align="center">
-<sub>Automatically refreshed through GitHub Actions.</sub>
+<sub>Automatically updated through GitHub Actions • Asia/Kolkata</sub>
 </p>
 
 ---
@@ -498,13 +492,15 @@ Helping rural creators sell unique products online
 
 <p align="center">
 
-**Software Engineering**
-**Generative AI & LLM Applications**
-**Full-Stack Development**
-**Chrome Extension Development**
-**Flutter Applications**
-**Cloud & Scalable Systems**
-**Product Engineering**
+💻 Software Engineering  • 
+🤖 Generative AI & LLM Applications  • 
+🌐 Full-Stack Development
+
+<br>
+
+🧩 Chrome Extensions  • 
+📱 Flutter Applications  • 
+☁️ Cloud & Scalable Systems
 
 </p>
 
@@ -557,9 +553,7 @@ Euphoria GenX • IIT Jammu • Real-World Product Development
 <h2 align="center">🚀 Open to Software Engineering Opportunities</h2>
 
 <p align="center">
-
 <b>Software Development • AI Engineering • Full-Stack Development • Product Engineering</b>
-
 </p>
 
 <p align="center">

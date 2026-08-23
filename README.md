@@ -1,207 +1,214 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Animesh%20Patra&fontColor=FFFFFF&textBg=false&fontSize=60&animation=scaleIn&fontAlignY=40&desc=Security%20First%20Software%20Engineer&descSize=24&descAlignY=65&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Animesh%20Patra&fontColor=FFFFFF&textBg=false&fontSize=60&animation=scaleIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=24&descAlignY=65&section=header"/>
+<h3 align="center">
+SDE Aspirant • Creator of GNT • Full Stack Developer • AI Product Builder
+</h3>
 
-<h2>Software Engineer • AI Developer • Full-Stack Developer • Product Builder</h2>
-
-<p>
-Building real-world software, AI-powered applications, and developer-focused products.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=7B61FF&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Creator+of+GNT;Full+Stack+Developer;AI+Product+Builder"/>
 </p>
 
-<p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=developer-animesh7&label=Profile+Views&color=blueviolet&style=flat"/>
+</p>
+
+<p align="center">
+
 <a href="https://animeshpatra.me">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
 <a href="https://github.com/developer-animesh7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://chromewebstore.google.com/detail/pdjebhcifgoembcidgjhdjohnkgcbflb">
-<img src="https://img.shields.io/badge/GNT-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNT_Chrome_Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/animesh-patra2004/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=developer-animesh7&label=Profile%20Views&color=7B61FF&style=flat"/>
-</p>
-
-</div>
-
-## 👨‍💻 About Me
-
-* 💻 Software Engineer focused on building real-world applications
-* 🤖 Generative AI & LLM Application Developer
-* 🌐 Full-Stack Developer
-* 🚀 Creator of **GNT — Glass New Tab**
-* 📱 Flutter Application Developer
-* 🧩 Chrome Extension Developer
-* 🔥 Firebase & Cloud Application Development
-* 🛠️ Interested in scalable software and product engineering
-* 🎯 Open to Software Engineering, AI, Full-Stack and Product Development opportunities
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,dart,c,html,css"/>
-</p>
-
-### Frameworks & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,react"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,linux,vscode"/>
-</p>
-
-## 🚀 Featured Projects
-
-### 🌐 GNT — Glass New Tab
-
-> A privacy-focused, glassmorphism-inspired Chrome New Tab experience.
-
-* 👥 **15,000+ users**
-* ⭐ **4.8 rating**
-* 🏆 **Featured by Google Chrome**
-* 🎨 Premium glass / modern dashboard UI
-* 🔒 Privacy-focused architecture
-* ⚡ Built as a production Chrome Extension
-
-<p>
-<a href="https://chromewebstore.google.com/detail/pdjebhcifgoembcidgjhdjohnkgcbflb">
-<img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</p>
-
-### 🛒 AI Shopping Helper
-
-AI-powered shopping assistance designed to simplify product discovery, comparison and decision-making.
-
-### 📱 SmartGuard
-
-A security-focused application combining authentication, subscription management, cloud services and modern application architecture.
-
-### 🌾 Rural Marketplace Platform
-
-A marketplace concept designed to help rural creators and artisans bring unique local products to customers through an online platform.
-
-## 📌 More Projects
-
-<div align="center">
-
-<a href="https://github.com/developer-animesh7">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-animesh7&repo=GNT&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-animesh7&repo=smartguard&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-animesh7&repo=AI-Shopping-Helper&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-animesh7&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=12"/>
-
-</p>
-
-> Replace the repository names above with your exact GitHub repository names.
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=developer-animesh7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-animesh7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8"/>
-
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=developer-animesh7&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=86400"/>
-
-</p>
-
-<p align="center">
-<sub>Contribution data may take time to update after new GitHub activity.</sub>
-</p>
-
-## 🎯 Current Focus
-
-```text
-Software Engineering
-        ↓
-Full-Stack Development
-        ↓
-Generative AI & LLM Applications
-        ↓
-Chrome Extension Development
-        ↓
-Cloud & Scalable Applications
-        ↓
-Real-World Product Building
-```
-
-## 💡 What I Build
-
-| Area          | Focus                                                |
-| ------------- | ---------------------------------------------------- |
-| 🤖 AI         | Generative AI, LLM applications, AI-powered products |
-| 💻 Software   | Full-stack applications and scalable systems         |
-| 🌐 Web        | Modern responsive web applications                   |
-| 📱 Mobile     | Flutter applications                                 |
-| 🧩 Extensions | Chrome extensions and productivity tools             |
-| ☁️ Cloud      | Firebase, APIs and cloud-backed applications         |
-| 🚀 Products   | Turning ideas into production-ready software         |
-
-## 🤝 Open for Opportunities
-
-<div align="center">
-
-### 🚀 Open to Software Engineering Opportunities
-
-**Software Development • AI Engineering • Full-Stack Development • Product Engineering**
-
-I'm open to opportunities where I can contribute to real-world products, learn from experienced engineers, and grow as a software professional.
 
 <br>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Contact%20Me-7B61FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+## 🚀 About Me
+
+I am a **Software Engineering fresher** focused on building practical software, AI-powered applications, and modern full-stack products.
+
+- 💻 Software Development & Full-Stack Engineering
+- 🤖 Generative AI & LLM Applications
+- 🌐 Web Application Development
+- 📱 Flutter Application Development
+- 🧩 Chrome Extension Development
+- ☁️ Firebase & Cloud-Based Applications
+- 🚀 Product Development & Real-World Projects
+- 🔒 Security-Aware Software Development
+
+<br>
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,dart,c,html,css" />
+</p>
+
+### ⚡ Frameworks & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,react" />
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,linux,vscode" />
+</p>
+
+<br>
+
+## 🌟 Featured Work
+
+### 🧊 GNT — Glass New Tab
+
+A modern Chrome New Tab experience focused on productivity, customization, privacy, and a premium glass-style interface.
+
+<p>
+<img src="https://img.shields.io/badge/15,000%2B_Users-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/4.8_Rating-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google_Chrome_Featured-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</p>
+
+<p>
+<a href="https://chromewebstore.google.com/detail/pdjebhcifgoembcidgjhdjohnkgcbflb">
+<img src="https://img.shields.io/badge/View_on_Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing software projects, technical skills, experience, and products.
+
+<p>
+<a href="https://animeshpatra.me">
+<img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+### 🤖 AI & Software Projects
+
+Building applications around:
+
+- Generative AI
+- LLM-powered features
+- Intelligent automation
+- Full-stack web applications
+- Developer productivity
+- Cloud-connected applications
+
+<br>
+
+## 📂 My Repositories
+
+I work across multiple areas including **AI, full-stack development, Chrome extensions, Flutter, cloud applications, and software engineering**.
+
+<p align="center">
+
+<a href="https://github.com/developer-animesh7?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/developer-animesh7?tab=projects">
+<img src="https://img.shields.io/badge/View_Projects-7B61FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-animesh7&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-## 🐍 Contribution Graph
+<br>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/developer-animesh7/developer-animesh7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+## 🎯 Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### ⭐ Building Software • Solving Problems • Creating Products
+### 💻 Software Engineering
 
-</div>
+- Data Structures & Algorithms
+- Backend Development
+- API Development
+- Database Design
+- Software Architecture
+- Scalable Applications
+
+</td>
+<td width="50%">
+
+### 🤖 AI Engineering
+
+- Generative AI
+- LLM Applications
+- AI Product Development
+- Intelligent Automation
+- AI-Powered Software
+- Prompt Engineering
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 Full Stack
+
+- Frontend Development
+- Backend Development
+- Firebase
+- REST APIs
+- Authentication
+- Cloud Applications
+
+</td>
+<td width="50%">
+
+### 🚀 Product Development
+
+- Chrome Extensions
+- Flutter Applications
+- SaaS Concepts
+- Real-World Products
+- UI/UX Engineering
+- Developer Tools
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🏆 What I Like Building
+
+```text
+AI Applications
+      │
+      ├── LLM-powered products
+      ├── Intelligent automation
+      └── AI developer tools
+      │
+      ▼
+Software Engineering
+      │
+      ├── Full-stack applications
+      ├── APIs & backend systems
+      └── Cloud-connected software
+      │
+      ▼
+Product Development
+      │
+      ├── Chrome Extensions
+      ├── Flutter Applications
+      └── Real-world digital products
